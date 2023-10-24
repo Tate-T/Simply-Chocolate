@@ -1,23 +1,23 @@
 {
-  "name": "parcel-project-template",
+  "name": "Simply-Chocolate",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://illyabezpaliy13.github.io/Simple-Chocolate/",
+  "homepage": "https://Tate-T.github.io/Simply-Chocolate/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Simple-Chocolate/",
+    "build": "parcel build src/*.html --public-url /Simply-Chocolate/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/illyabezpaliy13/Simple-Chocolate.git"
+    "url": "git+https://github.com/Tate-T/Simply-Chocolate.git"
   },
   "keywords": [],
-  "author": "0qsenxx, m1xture, illyabezpaliy13",
+  "author": "0qsenxx, m1xture, Tate-T",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/goitacademy/Simply-Chocolate/issues"
   },
   "dependencies": {
     "gh-pages": "^6.0.0",
